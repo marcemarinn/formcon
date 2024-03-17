@@ -1,0 +1,10 @@
+C:\Users\march\source\repos\Formcon.net\bin\Debug\Formcon.net.exe.config
+C:\Users\march\source\repos\Formcon.net\bin\Debug\Formcon.net.exe
+C:\Users\march\source\repos\Formcon.net\bin\Debug\Formcon.net.pdb
+C:\Users\march\source\repos\Formcon.net\obj\Debug\Formcon.net.csproj.AssemblyReference.cache
+C:\Users\march\source\repos\Formcon.net\obj\Debug\Formcon.net.Form1.resources
+C:\Users\march\source\repos\Formcon.net\obj\Debug\Formcon.net.Properties.Resources.resources
+C:\Users\march\source\repos\Formcon.net\obj\Debug\Formcon.net.csproj.GenerateResource.cache
+C:\Users\march\source\repos\Formcon.net\obj\Debug\Formcon.net.csproj.CoreCompileInputs.cache
+C:\Users\march\source\repos\Formcon.net\obj\Debug\Formcon.net.exe
+C:\Users\march\source\repos\Formcon.net\obj\Debug\Formcon.net.pdb
