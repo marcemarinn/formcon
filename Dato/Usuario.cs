@@ -28,5 +28,10 @@ namespace Formcon.net.Dato
             return listView;
         }
 
+        public void delete (modelo.UsuarioModel model) 
+        { 
+            listView.Remove (model);
+        }
+
     }
 }

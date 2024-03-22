@@ -8,3 +8,16 @@ C:\Users\march\source\repos\Formcon.net\obj\Debug\Formcon.net.csproj.GenerateRes
 C:\Users\march\source\repos\Formcon.net\obj\Debug\Formcon.net.csproj.CoreCompileInputs.cache
 C:\Users\march\source\repos\Formcon.net\obj\Debug\Formcon.net.exe
 C:\Users\march\source\repos\Formcon.net\obj\Debug\Formcon.net.pdb
+C:\Proyectos\formcon\bin\Debug\Formcon.net.exe.config
+C:\Proyectos\formcon\bin\Debug\Formcon.net.exe
+C:\Proyectos\formcon\bin\Debug\Formcon.net.pdb
+C:\Proyectos\formcon\obj\Debug\Formcon.net.csproj.AssemblyReference.cache
+C:\Proyectos\formcon\obj\Debug\Formcon.net.Form1.resources
+C:\Proyectos\formcon\obj\Debug\Formcon.net.Properties.Resources.resources
+C:\Proyectos\formcon\obj\Debug\Formcon.net.csproj.GenerateResource.cache
+C:\Proyectos\formcon\obj\Debug\Formcon.net.csproj.CoreCompileInputs.cache
+C:\Proyectos\formcon\obj\Debug\Formcon.net.exe
+C:\Proyectos\formcon\obj\Debug\Formcon.net.pdb
+C:\Proyectos\formcon\bin\Debug\FontAwesome.Sharp.dll
+C:\Proyectos\formcon\obj\Debug\Formcon.net.csproj.CopyComplete
+C:\Proyectos\formcon\obj\Debug\Formcon.net.csproj.SuggestedBindingRedirects.cache
