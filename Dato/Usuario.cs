@@ -1,6 +1,7 @@
 ﻿using Formcon.net.modelo;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,6 +11,8 @@ namespace Formcon.net.Dato
     public class Usuario
     {
         List<modelo.UsuarioModel> listView = new List<modelo.UsuarioModel> ();
+        
+        
         /// <summary>
         /// Guarda usuarios
         /// </summary>
@@ -32,6 +35,12 @@ namespace Formcon.net.Dato
         { 
             listView.Remove (model);
         }
+
+
+        public void CreateUsuario (modelo.UsuarioModel model)
+        {
+
+        } 
 
     }
 }
